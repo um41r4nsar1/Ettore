@@ -34,6 +34,20 @@
 
 ---
 
+## 📥 Installation
+
+Clone the repository and run the script directly — no build step, no dependencies to install.
+
+```bash
+git clone https://github.com/um41r4nsar1/Ettore.git
+cd Ettore
+python ettore.py
+```
+
+Alternatively, download the script directly from the [repo](https://github.com/um41r4nsar1/Ettore/) and run it with any Python 3.7+ interpreter.
+
+---
+
 ## 🚀 Usage
 
 ```bash
